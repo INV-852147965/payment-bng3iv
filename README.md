@@ -1,8 +1,10 @@
 September 15, 2026
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: yf718@aol.com, craigabergman@yahoo.com
-At: 2026-09-15 21:01:09
-Id: SE08zGRb
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: tourenot@yahoo.com, mmitch2125@aol.com
+At: 2026-09-15 21:01:48
+Id: mtZcjCpT
